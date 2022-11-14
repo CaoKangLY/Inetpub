@@ -1,2 +1,12 @@
+<<<<<<< .mine
+sdafasgadssaada
+
+sdfsdf
+
+dfdfd
+
+sdfdsfsdfsdf
+||||||| .r246661
+sdafasgadssaada=======
 sdafasgadssaadasfasd
-21231
+21231>>>>>>> .r246663

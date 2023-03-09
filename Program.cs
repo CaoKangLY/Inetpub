@@ -11,6 +11,7 @@ namespace HelloWorld
       Console.WriteLine("Hello It World!"); 
       Console.WriteLine("Hello Caokang!");
       Console.WriteLine("Hello Testing!");
+      Console.WriteLine("Good Morning!");
     }
   }
 }
